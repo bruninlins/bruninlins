@@ -21,7 +21,7 @@
 Transformando ideias em códigos e impactando vidas com a magia da tecnologia!
 
 ### **Sobre mim** 👀
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções inovadoras e impactantes. Tenho experiência em front-end e gosto de desenvolver interfaces intuitivas que gerem valor para os usuários. Além disso, estou sempre buscando aprender novas tecnologias para me especializar em soluções modernas e eficientes.
+Sou formado no curso de Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções inovadoras e impactantes. Tenho experiência em front-end e gosto de desenvolver interfaces intuitivas que gerem valor para os usuários. Além disso, estou sempre buscando aprender novas tecnologias para me especializar em soluções modernas e eficientes.
 
 ### **Objetivo** ✔️
 Meu objetivo é me tornar um profissional referência na área de desenvolvimento, criando sistemas que melhorem a vida das pessoas e ajudem empresas a atingirem seus objetivos. Estou focado em crescer tanto tecnicamente quanto em habilidades interpessoais, contribuindo ativamente para equipes e projetos. E talvez, um dia, eu possa criar meu primeiro jogo.
@@ -30,7 +30,7 @@ Meu objetivo é me tornar um profissional referência na área de desenvolviment
 Quando não estou programando, gosto de jogar bola, video game, explorar novos frameworks e desafios tecnológicos. Sou curioso por natureza e adoro aprender sobre novas tendências e ferramentas no mundo da tecnologia.
 
 ### **Conquistas e Certificados** 🎉
-- Certificados em Git e GitHub, HTML, CSS e Java pela Alura.
+- Certificados em Git e GitHub, HTML, CSS, Javascript e Java pela Alura.
 - Experiência em projetos acadêmicos, como o aplicativo Greantech, uma plataforma de vendas online.
 - Inglês Básico
 - Participação em eventos parecidos com hackathons e projetos colaborativos.
