@@ -16,7 +16,9 @@
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
+
 
 Transformando ideias em códigos e impactando vidas com a magia da tecnologia!
 
@@ -37,7 +39,7 @@ Quando não estou programando, gosto de jogar bola, video game, explorar novos f
 
 ### **Habilidades Técnicas** 🚨
 - **Front-end:** HTML5, CSS3, JavaScript
-- **Back-end:** Python, Java
+- **Back-end:** Python, Java, PHP
 - **Ferramentas:** Git, GitHub, VSCode, Figma, IntelliJ IDEA
 
 ### **Estilo de Trabalho** 💪
