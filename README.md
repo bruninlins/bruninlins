@@ -30,6 +30,3 @@ Sou formado no curso de Análise e Desenvolvimento de Sistemas, apaixonado por c
 
 ### **Objetivo** ✔️
 Meu objetivo é me tornar um profissional referência na área de desenvolvimento, criando sistemas que melhorem a vida das pessoas e ajudem empresas a atingirem seus objetivos. Estou focado em crescer tanto tecnicamente quanto em habilidades interpessoais, contribuindo ativamente para equipes e projetos. E talvez, um dia, eu possa criar meu primeiro jogo.
-
-## Últimos projetos:
-- [Portfólio pessoal](https://bruninlins.github.io/APRESENTACAO/)
