@@ -17,7 +17,10 @@
    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
 
 
 Transformando ideias em códigos e impactando vidas com a magia da tecnologia!
@@ -27,27 +30,6 @@ Sou formado no curso de Análise e Desenvolvimento de Sistemas, apaixonado por c
 
 ### **Objetivo** ✔️
 Meu objetivo é me tornar um profissional referência na área de desenvolvimento, criando sistemas que melhorem a vida das pessoas e ajudem empresas a atingirem seus objetivos. Estou focado em crescer tanto tecnicamente quanto em habilidades interpessoais, contribuindo ativamente para equipes e projetos. E talvez, um dia, eu possa criar meu primeiro jogo.
-
-### **Hobbies e Interesses** 🚀
-Quando não estou programando, gosto de jogar bola, video game, explorar novos frameworks e desafios tecnológicos. Sou curioso por natureza e adoro aprender sobre novas tendências e ferramentas no mundo da tecnologia.
-
-### **Conquistas e Certificados** 🎉
-- Certificados em Git e GitHub, HTML, CSS, Javascript e Java pela Alura.
-- Experiência em projetos acadêmicos, como o aplicativo Greantech, uma plataforma de vendas online.
-- Inglês Básico
-- Participação em eventos parecidos com hackathons e projetos colaborativos.
-
-### **Habilidades Técnicas** 🚨
-- **Front-end:** HTML5, CSS3, JavaScript
-- **Back-end:** Python, Java, PHP
-- **Ferramentas:** Git, GitHub, VSCode, Figma, IntelliJ IDEA
-
-### **Estilo de Trabalho** 💪
-Sou colaborativo e gosto de trabalhar em equipe para resolver problemas. Acredito que a chave para o sucesso está em uma boa comunicação e na busca constante por soluções criativas e eficientes.
-
-### **Vamos conversar!** 😉
-Estou sempre aberto a novas oportunidades e desafios. Se quiser discutir projetos, tecnologia ou explorar formas de trabalharmos juntos, entre em contato!
-
 
 ## Últimos projetos:
 - [Portfólio pessoal](https://bruninlins.github.io/APRESENTACAO/)
